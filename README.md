@@ -47,7 +47,7 @@ Estudante de **Engenharia de Software**, com experiência e interesse em **Quali
 
 <br/>
 
-### 🐍 Snake Animation
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anthonylimma/Anthonylimma/output/github-contribution-grid-snake-dark.svg">
