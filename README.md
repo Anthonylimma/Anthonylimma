@@ -14,10 +14,7 @@ Estudante de **Engenharia de Software**, com experiência e interesse em **Quali
 <p align="left">
   <a href="https://www.linkedin.com/in/anthonylimma/">
     <img alt="LinkedIn" title="Meu LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Anthony%20Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=084c94" />
-  </a>
-  <a href="https://www.instagram.com/anthonylimaj/">
-    <img alt="Instagram" title="Meu Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-@anthonylimaj-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=c13584" />
-  </a>
+  
   <a href="mailto:Limaanthony74@gmail.com">
     <img alt="Gmail" title="Me envie um e-mail" src="https://custom-icon-badges.demolab.com/badge/Gmail-Limaanthony74-D14836?style=for-the-badge&logo=mail&logoColor=white&labelColor=b23121" />
   </a>
